@@ -3,3 +3,8 @@
 2. Crea un repositorio en github para guardar los extra-addons
 3. En la carpeta raiz del proyecto ejecutamos el comando: ``./odoo-bin scaffold ../extra-addons/thirdparties/{nombre_de_la_carpeta_addons}/{nombre_del_modulo}``
 4. Al final tu arbol de carpetas debe quedar asi:
+```
+    odoo-custom-addons
+    └── thirdparties
+        └── odoo14-addons
+```
